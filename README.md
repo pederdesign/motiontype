@@ -1,20 +1,30 @@
-# MotionType
+# Motion Type
 
-## Project Description
-MotionType is a dynamic project focused on creating motion-related design tools and resources. Whether you're looking to enhance your animation skills, explore kinetic typography, or streamline your design workflow, MotionType provides a suite of utilities and examples to facilitate your creative process.
+Experimenting with animated typography 🎨
 
-## Instructions
-1. **Installation**
-   - Clone the repository: `git clone https://github.com/pederdesign/motiontype.git`
-   - Navigate to the project directory: `cd motiontype`
-   - Follow any additional setup instructions provided in the documentation.
+## Projects
 
-2. **Usage**
-   - Explore the examples provided in the `/examples` directory to understand how to implement the motion tools.
-   - Refer to the official documentation for in-depth tutorials and API references.
+### Jockey Hover
+Interactive animated text with three different interaction modes:
 
-3. **Contributing**
-   - Contributions are welcome! Please submit a pull request or open an issue if you have suggestions for features or improvements.
+- **Rubber Band**: Letters stretch and push neighbors when hovered
+- **Ink Bleed**: Colorful ink effect that reveals on hover
+- **Scramble / Glitch**: Glitchy character distortion with color flicker
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Try hovering over the letters to see the effects in action!
+
+## How to View
+
+Open `index.html` in your browser to see all projects, or go directly to `jockey-hover_5.html` to see the Jockey interactive typography.
+
+## Features
+
+- Responsive design
+- Smooth animations using CSS transitions and requestAnimationFrame
+- SVG-based typography for crisp rendering
+- Interactive hover states
+- Multiple animation modes
+
+---
+
+Feel free to experiment and customize! 🚀
